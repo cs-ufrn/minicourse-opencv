@@ -1,0 +1,2 @@
+# opencv-minicourse
+OpenCV minicourse
