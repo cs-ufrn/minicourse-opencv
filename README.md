@@ -20,6 +20,10 @@ This lesson introduce the idea of convolution into images, histograms and thresh
 
 The last lesson addresses detection of objects using Haar Cascade and the segmentation of objects using adaptive thresholding and connected components.
 
+### [Lesson 05 - Project Suggestions](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20V%20-%20Project%20Suggestions.ipynb)
+
+This notebook has some suggestions of projects to practice.
+
 ## Authors
 
 [![Vinicius Campos](https://avatars.githubusercontent.com/vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](https://github.com/vinihcampos) | [![Vitor Greati](https://avatars.githubusercontent.com/greati?s=100)<br /><sub>Vitor Greati</sub>](https://github.com/greati) | [![Artur Curinga](https://avatars.githubusercontent.com/arturcuringa?s=100)<br /><sub>Artur Curinga</sub>](https://github.com/arturcuringa)
