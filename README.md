@@ -4,19 +4,19 @@ OpenCV (Open Source Computer Vision Library) is an open source computer vision a
 
 ## Lessons
 
-### [Lesson 01 - Introduction](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20-%20Introduction.ipynb)
+### [Lesson 01 - Introduction](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20I%20-%20Introduction.ipynb)
 
 This notebook covers the introduction of OpenCV, talking about reading and writing images, color spaces, pixels manipulation and drawing. 
 
-### [Lesson 02 - Image Processing](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20-%20Image%20Processing.ipynb)
+### [Lesson 02 - Image Processing](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20II%20-%20Image%20Processing.ipynb)
 
 This notebook shows simple transformations, like cropping, mirroring, rotation and resizing, besides of logic and arithmetic operation and masking.  
 
-### [Lesson 03 - Intermediate Topics](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20-%20Convolutions%2C%20Histogram%20and%20Thresholding.ipynb)
+### [Lesson 03 - Intermediate Topics](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20III%20-%20Convolutions%2C%20Histogram%20and%20Thresholding.ipynb)
 
 This lesson introduce the idea of convolution into images, histograms and thresholding.
 
-### [Lesson 04 - Detection and Classification of Objects](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20-%20Object%20Detection%20and%20Classification.ipynb)
+### [Lesson 04 - Detection and Classification of Objects](https://github.com/cs-ufrn/minicourse-opencv/blob/master/OpenCV%20IV%20-%20Object%20Detection%20and%20Classification.ipynb)
 
 The last lesson addresses detection of objects using Haar Cascade and the segmentation of objects using adaptive thresholding and connected components.
 
